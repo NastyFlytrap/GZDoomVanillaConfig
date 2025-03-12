@@ -10,3 +10,5 @@ Notepad++ has a nice compare plugin that would probably make this easier
 To uninstall, just delete it.
 
 Oh, and if you didnt know, if you name the config file `gzdoom_portable.ini` and you put it next to the exe, you can use a portable installation of GZDoom, no documents folder shenanigans required.
+
+Also, this is for windows users. I havent switched to linux yet so i dont have a config to compare, but if you're a linux user im pretty sure you can either turn off the things yourself because you know this better than i do, or that you can atleast compare your textfile to mine and import the stuff that arent dependent on the operating system.
